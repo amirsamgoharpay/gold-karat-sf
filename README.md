@@ -5,6 +5,7 @@ so you are playing slime fun in minecraft , you realize you need 1 stack of 24 k
 > Im a minecraft player .  
 > I love slime fun.  
 > I need gold ingots.  
+
 with this little calculator you can type the karat and the amount you want and it will calculate how much dust you need
 ## how to run
 just download the [code.exe](https://github.com/amirsamgoharpay/gold-karat-sf/raw/main/code.exe) file and run it
